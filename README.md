@@ -2,7 +2,7 @@
 The purpose of this exercise is to learn how to use Map collections.
 
 
-Duration: _45 minutes_
+Duration: **45 minutes**
 
 
 
@@ -12,10 +12,10 @@ In this task, you will calculate how often each word occurs in a text and get th
 
 Please proceed to the `Words` class and provide the implementations of the `countWords()` method, which returns the statistics as a String containing entries in the form ` "word - amount\n" `. 
 
-## Details
+### Details
 * The input parameter is a list of strings representing lines of text.  
 * The entries in the resulting String should also be sorted by descending frequency of words    and then in alphabetical order if necessary.  
 * Make sure your code can handle texts in English and other languages.   
 
-### Restrictions
+## Restrictions
 You may not use streams, lambdas, or method references in your code.
