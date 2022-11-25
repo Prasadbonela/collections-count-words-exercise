@@ -1,4 +1,4 @@
-# Count words
+# Count Words
 The purpose of this exercise is to learn how to use Map collections.
 
 
